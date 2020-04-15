@@ -1,0 +1,24 @@
+
+- 入门
+	- [简历制作](intro/cv.md)
+	- [面试流程](intro/process.md)
+- 面试题
+	- [通用面试题](q/common/common.md)
+	- 软件测试
+		- [测试基础](q/test/base.md)
+		- [代理与Mock](q/test/proxy.md)
+		- [APP 测试](q/test/app.md)
+		- [UI 自动化](q/test/autoui.md)
+		- [接口&接口自动化](q/test/autoapi.md)
+	- [测试管理](q/manage/test.md)
+	- 软件开发
+		- [数据库](q/dev/db.md)
+		- [网络：HTTP](q/dev/http.md)
+		- [编程语言：Java](q/dev/java.md)
+		- [编程能力](q/dev/program.md)
+		- [系统架构](q/dev/architecture.md)
+	- 软件运维
+		- [Linux](q/ops/linux.md)
+- 面经
+	- [未分类](exp/inbox.md)
+	- [阿里巴巴](exp/alibaba.md)
