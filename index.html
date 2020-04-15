@@ -21,6 +21,10 @@
   <div id="app">努力加载中，客官请稍等...</div>
   <script>
     window.$docsify = {
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md', // See #301
+        '/.*/_navbar.md': '/_navbar.md' // See #301
+      },
       name: '软件测试面试',
       repo: 'https://github.com/qadoc/qa-interview',
       loadSidebar: true,
