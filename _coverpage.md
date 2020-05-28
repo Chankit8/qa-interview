@@ -7,6 +7,5 @@
 * **面试不是终点，学习没有起点**
 * 投稿：qadoc_org@163.com
 
-[QAdoc](https://qadoc.org)
-[起步](#面试笔记)
+[开始阅读](README.md)
 

@@ -1,21 +1,58 @@
 
-# 面试笔记
+!> [阅前必读](阅前必读.md)
 
-软件测试工程师面试知识笔记。
+## 🔰 入门
 
-将笔记整理分享出来，有几个出发点：
+- [简历制作](intro/cv.md)
+- [面试流程](intro/process.md)
+- [面试官](intro/interviewer.md)
 
-1. 分享一下简历的制作经验。
-1. 避免面试过程中一些不必要的坑。
-1. 通过面试或面试题来检查自身的问题或短板，知道企业需要的是什么，应该学什么。
-1. 分享一些面试经验，学会把自身的实力发挥出来。
+---
 
-面试是一场考试，考察的是平时积累的能力，所以为面试做准备是一个时时刻刻都可以进行的过程。列下自己认为平时应该注重的几个方面：
+## 📔 面试题
 
-1. 平均成长速率 = 累计工作能力/累计工作年限
-2. 解决问题的能力及基本功
-3. 时间规划能力、计划制定和执行能力、结果导向和结果指标（长期+短期结果）
-4. 做事效率、积极性、优先级
-5. 兜底能力
+### 🐾 工作经验
+
+- [项目经历](questions/work/项目经历.md)
+- [工作总结](questions/work/工作总结.md)
+- [职业观](questions/work/职业观.md)
+
+### 🐞 测试技术
+
+- [测试基础](questions/test/测试基础.md)
+- [前端测试](questions/test/前端测试.md)
+- [服务端测试](questions/test/服务端测试.md)
+- [移动端测试](questions/test/移动端测试.md)
+- [白盒测试]()
+- 安全测试
+- [代理与Mock](questions/test/proxy.md)
+- [代码覆盖率]()
+
+### 💻 开发技术
+
+- [Java](questions/dev/java.md)
+- [Python](questions/dev/python.md)
+- [数据库](questions/dev/db.md)
+- [操作系统](questions/dev/os.md)
+- [网络](questions/dev/network.md)
+- [数据结构和算法](questions/dev/algorithms.md)
+- [系统架构与设计](questions/dev/design.md)
 
 
+### 🏢 管理
+
+- [管理](questions/manage/管理.md)
+
+### 👀 软能力
+
+- [自我表达](questions/common/自我表达.md)
+- [智力题](questions/common/智力题.md)
+- [转场反问](questions/common/转场反问.md)
+- [HR 面](questions/common/HR面.md)
+
+---
+
+## 👴 面经
+
+- [面试经验](experiences/面试经验.md)
+- [面试真题](experiences/面试真题.md)
